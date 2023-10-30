@@ -10,7 +10,7 @@ namespace SpicyGarnachas.SimpleOperations.Operations
 
         public Func<double, double, double> Multiplication = (firstValue, secondValue) => firstValue * secondValue;
 
-        public Func<double, double, double> Division = (firstValue, secondValue) => firstValue * secondValue;
+        public Func<double, double, double> Division = (firstValue, secondValue) => firstValue / secondValue;
 
     }
 }
