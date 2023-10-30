@@ -1,0 +1,14 @@
+C:\Users\demtg\source\repos\SpicyGarnachas\SpicyGarnachas.SimpleOperations\bin\Debug\SpicyGarnachas.SimpleOperations.exe.config
+C:\Users\demtg\source\repos\SpicyGarnachas\SpicyGarnachas.SimpleOperations\bin\Debug\SpicyGarnachas.SimpleOperations.exe
+C:\Users\demtg\source\repos\SpicyGarnachas\SpicyGarnachas.SimpleOperations\bin\Debug\SpicyGarnachas.SimpleOperations.pdb
+C:\Users\demtg\source\repos\SpicyGarnachas\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.csproj.AssemblyReference.cache
+C:\Users\demtg\source\repos\SpicyGarnachas\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.csproj.CoreCompileInputs.cache
+C:\Users\demtg\source\repos\SpicyGarnachas\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.exe
+C:\Users\demtg\source\repos\SpicyGarnachas\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.pdb
+C:\Users\demtg\source\repos\SimpleOperations\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.csproj.AssemblyReference.cache
+C:\Users\demtg\source\repos\SimpleOperations\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.csproj.CoreCompileInputs.cache
+C:\Users\demtg\source\repos\SimpleOperations\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.exe
+C:\Users\demtg\source\repos\SimpleOperations\SpicyGarnachas.SimpleOperations\obj\Debug\SpicyGarnachas.SimpleOperations.pdb
+C:\Users\demtg\source\repos\SimpleOperations\SpicyGarnachas.SimpleOperations\bin\Debug\SpicyGarnachas.SimpleOperations.exe.config
+C:\Users\demtg\source\repos\SimpleOperations\SpicyGarnachas.SimpleOperations\bin\Debug\SpicyGarnachas.SimpleOperations.exe
+C:\Users\demtg\source\repos\SimpleOperations\SpicyGarnachas.SimpleOperations\bin\Debug\SpicyGarnachas.SimpleOperations.pdb
