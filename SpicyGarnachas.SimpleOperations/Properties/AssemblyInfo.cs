@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SpicyGarnachas.SimpleOperations")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Spycy")]
+[assembly: AssemblyCompany("Spicy")]
 [assembly: AssemblyProduct("SpicyGarnachas.SimpleOperations")]
 [assembly: AssemblyCopyright("No Copyright © Spicy 2023")]
 [assembly: AssemblyTrademark("")]
